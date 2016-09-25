@@ -8,3 +8,5 @@ the data are divided to two categories (pos/neg) and already sorted for cross-va
 
 computed uni-/bigrams and performed classification using linear regression and neural networks(MLP and CNN)
 
+![alt tag](index123.png)
+
